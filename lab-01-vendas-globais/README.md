@@ -1,20 +1,17 @@
-# 📊 Power BI — Data Science Academy
+# Lab 01 — Dashboard Analítico de Vendas Globais
 
-Dashboards desenvolvidos durante o curso **Microsoft Power BI para Business Intelligence e Ciência de Dados** da Data Science Academy.
+![Dashboard](dashboard-lab01.png)
 
----
+## Perguntas respondidas
 
-## 🛠️ Laboratórios do Curso
+1. **Qual o valor total vendido?** R$ 12,64M
+2. **Quantas vendas foram realizadas por categoria?** Móveis: 31,27K | Tecnologia: 10,14K | Suprimentos: 9,88K
+3. **Vendas por país e prioridade de entrega?** EUA lideram com maior volume em todas as prioridades.
+4. **Média de desconto por subcategoria?** Tables com maior desconto médio (~0,25).
+5. **Países com maior média de valor de venda?** Visualizado no mapa geográfico interativo.
 
-| Lab | Tema | Status |
-| :---: | :--- | :---: |
-| [Lab 01](./lab-01-vendas-globais) | Dashboard Analítico de Vendas Globais | ✅ Concluído |
+## Filtros disponíveis
+Ano (2011–2014) · Segmento · País
 
----
-
-## 📌 Sobre o Repositório
-
-Repositório criado para documentar o aprendizado prático em Power BI — visualização de dados, modelagem e DAX.
-
-* **Curso:** 72h \| 18 dashboards práticos
-* **Ferramenta:** Microsoft Power BI Desktop
+## Fonte de dados
+Data Science Academy / [data.world](https://data.world)
