@@ -1,11 +1,11 @@
 # Lab 01 — Dashboard Analítico de Vendas Globais
 
-![Dashboard de Vendas](dashboard-lab01.png)
+## 📥 Download do Projeto
+* 📊 [Baixar ficheiro do Power BI (.pbix)](./Lab01.pbix)
 
 ---
 
-## 📥 Download do Projeto
-* 📊 [Baixar ficheiro do Power BI (.pbix)](./Lab01.pbix)
+![Dashboard de Vendas](dashboard-lab01.png)
 
 ---
 
