@@ -18,8 +18,7 @@ Dashboards desenvolvidos durante o curso **Microsoft Power BI para Business Inte
 Para abrir, editar e interagir com os arquivos de relatório deste repositório:
 
 1. **Baixe o Power BI Desktop:** Certifique-se de ter o [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) instalado no seu computador (gratuito).
-2. **Abra o projeto:** Navegue até a pasta do laboratório desejado (ex: [`lab-02-lucro-kpis`](./lab-02-lucro-kpis)), abra o seu respectivo README e clique no link **"[Baixar arquivo do Power BI (.pbix)](https://github.com/clarampdias/powerbi-dsa/blob/main/lab-02-lucro-kpi/Lab02.pbix)"**.
-
+2. **Abra o projeto:** Navegue até a pasta do laboratório desejado (ex: [`lab-02-lucro-kpi`](https://github.com/clarampdias/powerbi-dsa/tree/main/lab-02-lucro-kpi)), abra o seu respectivo README e clique no link **"[Baixar arquivo do Power BI (.pbix)](https://github.com/clarampdias/powerbi-dsa/blob/main/lab-02-lucro-kpi/Lab02.pbix)"**.
 ---
 
 ## 📌 Sobre o Repositório
