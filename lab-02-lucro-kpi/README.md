@@ -15,16 +15,16 @@
 Classe Padrão: R$ 7,56M | Segunda Classe: R$ 2,57M | Primeira Classe: R$ 1,84M | Mesmo Dia: R$ 677,31K (Total: R$ 12,64M)
 
 2. **Quais mercados tiveram o maior custo médio de envio?** 
-APAC lidera (R$ 29,14), seguido de US (R$ 28,94) e EU (R$ 27,84). Os menores custos ficam em EMEA (R$ 17,48) e Canadá (R$ 17,78).
+APAC lidera (R$ 29,14), seguido de US (R$ 28,94) e EU (R$ 27,84), por fim LATAM (26,46).
 
 3. **A meta é R$ 350 de venda média mensal. A empresa atingiu a meta em Abril/2014?** 
-Não. A média de venda em Abril/2014 foi de R$ 229,62. Abaixo da meta (a média geral do período todo também fica abaixo, em R$ 246,49).
+Não. A média de venda em Abril/2014 foi de R$ 229,62. Abaixo da meta.
 
 4. **Qual categoria teve maior lucro médio (lucro = valor venda − custo envio)?** 
 Tecnologia (R$ 417,86), seguida de Móveis (R$ 371,66) e Material de Escritório (R$ 108,13).
 
 5. **Qual foi o comportamento da margem de lucro ao longo do tempo?** 
-A margem se manteve estável durante todo o período (2011–2014), oscilando entre 88% e 91% mês a mês, sem tendência clara de queda ou crescimento.
+A margem de lucro apresenta uma trajetória geral de crescimento ascendente ao longo dos anos, indicando que a eficiência das vendas ou o retorno financeiro sobre o valor vendido aumentou de forma consistente com o passar do tempo.
 
 ## 🎛️ Filtros disponíveis
 Ano  · Mês
